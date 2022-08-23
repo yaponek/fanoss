@@ -1,0 +1,1 @@
+global.userDetail = {email:'1', userId:'1'}
